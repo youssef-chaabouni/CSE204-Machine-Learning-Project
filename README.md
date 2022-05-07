@@ -17,6 +17,8 @@ Final project within the scope of our course at Ecole Polytechnique: Machine Lea
 <p></p>
 - char_recognition.ipynb
 <p></p>
+- model_1.ipynb
+<p></p>
 
 ## References:
 http://vision.stanford.edu/teaching/cs231n/reports/2017/pdfs/810.pdf <br>
