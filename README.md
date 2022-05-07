@@ -9,15 +9,15 @@
 Final project within the scope of our course at Ecole Polytechnique: Machine Learning (CSE204)
 
 ## Content:
-#### data_exploration.ipynb
+<h2>data_exploration.ipynb</h2>
 <p></p>
-#### segmentation_v1.ipynb
+<h2>segmentation_v1.ipynb</h2>
 <p></p>
-#### segmentation_v2.ipynb
+<h2>segmentation_v2.ipynb</h2>
 <p></p>
-#### char_recognition.ipynb
+<h2>char_recognition.ipynb</h2>
 <p></p>
-#### model_1.ipynb
+<h2>model_1.ipynb</h2>
 <p></p>
 
 ## References:
